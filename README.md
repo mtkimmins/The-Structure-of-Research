@@ -1,2 +1,3 @@
-# structureOfResearch
-A repository of knowledge concerning research methods, applications, and their intent.
+# Structure Of Research
+## Index
+1) Survey of statistical methods
