@@ -9,3 +9,4 @@
 ### Tips
 * Definitely write the rationales for the decisions you make concerning methods to use, deviations from protocols, etc.
 * Write the rationales in the manuscript in defence of such decisions and design.
+* Make sure you solidify and finalize the methods of gaining data, assessing data, and representing data PRIOR to commencing the collection, ESPECIALLY the third-party analysis or collection.
