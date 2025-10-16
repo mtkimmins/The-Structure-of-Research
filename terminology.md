@@ -1,9 +1,11 @@
 ONE-WAY v TWO-WAY
-CORRELATION v AGREEMENT
+CORRELATION v ABSOLUTE AGREEMENT
 ANOVA
 Crohnbach's alpha
 Inter-rater Reliability (IRR)
 * % Overlap
-* Cohen's $/kappa$
-* Weighted $/kappa$
+* Cohen's $/Kappa$
+* Weighted $/Kappa$
 * Intraclass Correlation Coefficient
+Liekert's Scale
+Homoscedasticity
