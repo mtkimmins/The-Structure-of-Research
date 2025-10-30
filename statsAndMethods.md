@@ -1,5 +1,5 @@
 # Statistics and Methods in Research
-Each analysis will have a capacity (how many things it can measure), intent (what it measures), and limitations (the required assumptions)
+Each analysis will have a capacity (how many things it can measure), intent (what it measures), and limitations (the required assumptions).  
 See [THIS](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/) database for statistical delineation.
 ## Dictionary
 * Parametric: require the data to be "normally distributed"
