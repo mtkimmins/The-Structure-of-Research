@@ -9,3 +9,4 @@ Inter-rater Reliability (IRR)
 * Intraclass Correlation Coefficient
 Liekert's Scale
 Homoscedasticity
+Sensitivity analysis
