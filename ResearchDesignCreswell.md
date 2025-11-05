@@ -8,9 +8,10 @@ ___
 1) Decide on worldview
 2) Decide on design
 3) Decide on methods
-4) *Make a planned flowchart*
-5) Review Literature - spend a lot of time in library
-6) Pick an angle
+4) *Make a planned flowchart* (general literature review)
+5) collect relevant articles (make an annotated bibliography)
+7) Pick an angle (find a gap)
+8) 
 
 # Research Components
 ## Research Approaches
